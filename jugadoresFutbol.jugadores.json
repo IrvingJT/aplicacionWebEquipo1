@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "6574d75d9459b0fe735559c9"
+  },
+  "apellido": "Messi",
+  "anoNacimiento": 1990,
+  "nombre": "Lionel"
+},
+{
+  "_id": {
+    "$oid": "6574e13f2a146c09d59e3882"
+  },
+  "nombre": "Hirving",
+  "apellido": "Lozano",
+  "anoNacimiento": 1997,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6574f4bc8abda80a3e840c80"
+  },
+  "nombre": "Erling",
+  "apellido": "Halland",
+  "anoNacimiento": 1997,
+  "__v": 0
+}]
